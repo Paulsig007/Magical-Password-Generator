@@ -17,15 +17,15 @@ This is a fairly simple application.
 One must simply press the "Generate Password" button, follow the window confirmations and prompts, and very shortly, a completely random password will be returned to the user.
 
 App Screenshots
-![alt text]/images/initial.png
+![alt text]https://github.com/Paulsig007/Magical-Password-Generator/blob/main/images/initial.png?raw=true
 
 <!-- This image shows the page upon loading -->
 
-![alt text]/images/2nd.png
+![alt text]https://github.com/Paulsig007/Magical-Password-Generator/blob/main/images/2nd.png?raw=true
 
 <!-- This image shows the page with the initial password window.confirm -->
 
-![alt text]/images/3rd.png
+![alt text]https://github.com/Paulsig007/Magical-Password-Generator/blob/main/images/3rd.png?raw=true
 
 <!-- This image gives an example of the continuing window.confirms -->
 
